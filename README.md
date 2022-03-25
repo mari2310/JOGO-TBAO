@@ -1,3 +1,4 @@
+##
 JOGO 2D - The Bizzare Adventures of Odoacro
 .
 Categoria: 2D, plataforma, aventura.
@@ -10,3 +11,4 @@ Suniguilda esposa de Odoacro foi capturada e o mesmo deve salva-la das mãos suj
 E em sua jornada haverá muitas dificuldades, mas Odoacro não se importa com o que vier pela frente, com um coração de bárbaro faria qualquer coisa pela sua amada.
 .
 Em questão dos personagens trouxemos uma parte do passado da Itália, o heroi Odoacro, a princesa Suniguilda e o vilão Teodorico.
+##
